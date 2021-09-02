@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-</!-- Placed all class sections in one due to desire to save excessive line usage.>
+
 .float-left,
 .float-right {
     float: left;
@@ -87,7 +87,7 @@ p {
     background-color: #2589bd;
 }
  
-</!-- Placed all class sections in one due to desire to save excessive line usage.>
+
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -120,7 +120,7 @@ p {
     text-align: center;
 }
 
-</!-- Placed all aside class sections in one due to desire to save excessive line usage.>
+
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -140,7 +140,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
- </!-- Placed all class sections in one due to desire to save excessive line usage.>
+
 .search-engine-optimization,
 .online-reputaion,
 .social-media-marketing {
@@ -170,7 +170,6 @@ p {
     color: #ffffff;
 }
 
-</!-- Placed all class sections in one due to desire to save excessive line usage.>
 .search-engine-optimization img,
 .online-reputaion-management img,
 .social-media-marketing img {
@@ -185,7 +184,7 @@ p {
     max-height: 200px;
 }
 
-</!-- Placed all class sections in one due to desire to save excessive line usage.>
+
 .search-engine-optimization h2,
 .online-reputaion-management h2,
 .social-media-marketing h2 {
