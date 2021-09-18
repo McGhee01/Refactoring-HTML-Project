@@ -14,3 +14,5 @@ Finally, refactoring in the style.css file was to reduce line usage and combine 
 ## Link to Deployed Application:
 https://mcghee01.github.io/Refactoring-HTML-Project/
 
+
+![Alt text](.\assets\images\Screenshot (59).png?raw=true "Title")
