@@ -10,3 +10,7 @@ In this paragraph, I will explain step by step how I refactored the coding scrip
 
 Next, I began to notice while testing everything was running smoothly in the website I seen something was terribly incorrect. The teab labeled, " Search Engine Optimization" wasn't clickable to perform it's action like the other two tabs shown. To fix the mistake, I looked back at my index.html and noticed somthing wasn't right that appeared to be correct with the other two tabs. Once the issue was resolved, I continued my task of refactoring of finding anymore issues. The remaining refactoring was work done to simplify the amount of lined used, modifications and updates.Reducing lines, modifications to class sections and images (inputting alt) for each and links for ID from lines 16-21 were added.
 Finally, refactoring in the style.css file was to reduce line usage and combine like sections in one to reduce excessive line usage.
+
+## Link to Deployed Application:
+https://mcghee01.github.io/Refactoring-HTML-Project/
+
